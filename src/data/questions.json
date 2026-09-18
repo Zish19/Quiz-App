@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "id": 2,
+    "question": "Which programming language is often used for building web applications alongside HTML and CSS?",
+    "options": ["Python", "JavaScript", "C++", "Java"],
+    "correctAnswer": "JavaScript"
+  },
+  {
+    "id": 3,
+    "question": "In React, what hook is used to manage state in a functional component?",
+    "options": ["useEffect", "useReducer", "useState", "useContext"],
+    "correctAnswer": "useState"
+  },
+  {
+    "id": 4,
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Creative Style System", "Computer Style Sheets", "Colorful Style Sheets"],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "id": 5,
+    "question": "Which of these is NOT a Javascript framework or library?",
+    "options": ["React", "Angular", "Vue", "Django"],
+    "correctAnswer": "Django"
+  }
+]
