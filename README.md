@@ -1,16 +1,41 @@
-# React + Vite
+# Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A minimal, interactive quiz application built with React and Vite.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-## React Compiler
+### Prerequisites
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+You need Node.js and npm installed on your machine.
 
-## Expanding the Oxlint configuration
+### Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clone the repository
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
+### Running Locally
+
+To start the development server, run:
+
+```bash
+npm run dev
+```
+
+### Building for Production
+
+To build the app for production, run:
+
+```bash
+npm run build
+```
+
+## Built With
+
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+* [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
